@@ -22,7 +22,6 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Source",
     "type": "github",
     "url": "https://github.com/elasticizer/docs"
   },
